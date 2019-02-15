@@ -19,8 +19,7 @@ by gon (2019/2/14)
 > dumpbin agent.exe /IMPORTS
 ```
 
-2. Trace Use of normalMsg() and Sleep()
- - Strings or ProcessExplorer, ...
- 
+2. Trace Use of normalMsg() and Sleep() 
+
 3. Make DLL for injecting ...
 
